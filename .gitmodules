@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:MoveCall/crosspoint-onepage.git
+[submodule "web"]
+	path = web
+	url = git@github.com:MoveCall/onepage-reader-web.git

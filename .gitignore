@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.vscode
+
+# Enclosure 3D models are published on MakerWorld under the MakerWorld Exclusive
+# License — never commit printable/editable geometry (it would defeat that license).
+*.stl
+*.step
+*.stp
+*.3mf
+*.f3d

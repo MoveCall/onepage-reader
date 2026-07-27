@@ -1,0 +1,22 @@
+OnePage Reader — hardware, 3D enclosure, and documentation
+Copyright (c) 2026 MoveCall
+
+This work (schematics, PCB layouts, 3D models, and documentation in this
+repository) is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC-BY-SA-4.0).
+
+  SPDX-License-Identifier: CC-BY-SA-4.0
+  Full text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+TODO: paste the full official CC-BY-SA-4.0 legal text here before publishing.
+
+Note: the electronic hardware design under electronics/ may additionally be
+covered by CERN-OHL-S-2.0 (see electronics/<variant>/LICENSE). Code submodules
+(firmware, SDK, web) are licensed separately under their own repositories (MIT).
+
+The 3D enclosure (mechanical/) is NOT covered by this CC-BY-SA license: the
+models are published on MakerWorld under the MakerWorld Exclusive License and
+are not included in this repository.
+
+The "OnePage" name and logo are trademarks of the project — All Rights Reserved,
+not covered by CC-BY-SA.

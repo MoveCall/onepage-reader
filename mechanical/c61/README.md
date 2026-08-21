@@ -1,22 +1,20 @@
-# OnePage enclosure — 3D (variant: c61)
+# OnePage enclosure & panels — ESP32-C61 (variant: c61)
 
-> **The 3D models are published on MakerWorld under the MakerWorld Exclusive License.**
-> Designer profile: **https://makerworld.com.cn/zh/@MoveCall**
-> OnePage C61 enclosure model: **<model link — TBD after upload>**
->
-> The printable/editable model files (STL/STEP) are **intentionally NOT committed to this
-> repository** — doing so would bypass the MakerWorld Exclusive License and defeat its
-> protection. This directory holds only pointers and shareable assembly docs.
+## 3D Printable Enclosure (MakerWorld)
 
-This is a mixed-license project: the electronics and firmware are open (CERN-OHL-S / MIT /
-CC-BY-SA), but the **enclosure is protected** — models are distributed only via MakerWorld.
+> **The full 3D printable enclosure models are published on MakerWorld under the MakerWorld Exclusive License.**  
+> - Designer profile: **https://makerworld.com.cn/zh/@MoveCall**  
+> - OnePage C61 enclosure model: **<model link — TBD after upload>**  
 
-## What lives here
+## Files in this Directory
 
-- This README → link to the MakerWorld model page.
-- `assembly.md` *(optional)* — assembly guide + screws / heat-set inserts list (safe to share).
-- `print-settings.md` *(optional)* — recommended layer height / material, if you choose to share.
+### Front/Back Panels (LCEDA Panel Design)
+- [`OnePage_Front_PET_Panel_v1.0.epanm`](OnePage_Front_PET_Panel_v1.0.epanm) — Front PET panel project (LCEDA / 立创面板定制工程)
+- [`OnePage_Back_Acrylic_Panel_v1.0.epanm`](OnePage_Back_Acrylic_Panel_v1.0.epanm) — Back Acrylic panel project (LCEDA / 立创面板定制工程)
 
-## What does NOT live here
+### Structural Parts
+- [`OnePage_MidFrame_CNC_v1.0.stl`](OnePage_MidFrame_CNC_v1.0.stl) — CNC mid-frame structural model (v1.0).
 
-- `*.stl`, `*.step`, or any printable/editable geometry — those stay on MakerWorld.
+### Documentation & Guides (Planned)
+- `assembly.md` *(optional)* — Assembly guide, screws & heat-set insert specs.
+- `print-settings.md` *(optional)* — Recommended print settings and material guidelines.

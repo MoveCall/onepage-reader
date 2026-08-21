@@ -3,9 +3,12 @@
 .vscode
 
 # Enclosure 3D models are published on MakerWorld under the MakerWorld Exclusive
-# License — never commit printable/editable geometry (it would defeat that license).
+# License — printable 3D shells stay on MakerWorld.
 *.stl
 *.step
 *.stp
 *.3mf
 *.f3d
+
+# Whitelist: CNC structural mid-frame is maintained directly in this repository
+!mechanical/**/OnePage_MidFrame_CNC_*.stl

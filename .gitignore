@@ -12,3 +12,5 @@
 
 # Whitelist: CNC structural mid-frame is maintained directly in this repository
 !mechanical/**/OnePage_MidFrame_CNC_*.stl
+!mechanical/**/OnePage_MidFrame_CNC_*.step
+!mechanical/**/OnePage_MidFrame_CNC_*.stp

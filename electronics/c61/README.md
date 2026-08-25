@@ -4,9 +4,8 @@ PCB design for the OnePage C61 board. Designed in **LCEDA / EasyEDA (立创EDA)*
 
 ## Source of truth
 
-- LCEDA source project — either the exported project file (`*.epro` / JSON) committed under
-  `lceda/`, **or** the LCEDA open-hardware page on oshwhub: **<oshwhub link — TBD>**.
-  (If the design lives on oshwhub, link it here and keep the exported/fab files below in-repo.)
+- **OSHWHub Project**: [https://oshwhub.com/movecall/project_ucjwpaya](https://oshwhub.com/movecall/project_ucjwpaya)  
+  Designed and maintained online with LCEDA / EasyEDA (立创EDA). Exported tool-agnostic fabrication files are also archived in-repo below.
 
 ## Hardware Release Files (V1 - 2026-08-19)
 

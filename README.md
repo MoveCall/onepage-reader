@@ -17,6 +17,7 @@
 [![MCU](https://img.shields.io/badge/MCU-ESP32--C61-red.svg)](https://www.espressif.com/)
 [![Firmware Release](https://img.shields.io/badge/Firmware-v0.1.0-blue.svg)](https://github.com/MoveCall/crosspoint-onepage/releases)
 [![Hardware](https://img.shields.io/badge/Hardware-V1_2026--08--19-success.svg)](electronics/c61/)
+[![OSHWHub](https://img.shields.io/badge/OSHWHub-OnePage_C61-1772F6.svg)](https://oshwhub.com/movecall/project_ucjwpaya)
 [![Enclosure](https://img.shields.io/badge/MakerWorld-Exclusive-orange.svg)](https://makerworld.com.cn/zh/@MoveCall)
 [![License](https://img.shields.io/badge/License-Mixed-lightgrey.svg)](#licensing)
 
@@ -57,7 +58,7 @@ This repository serves as the central hub of the entire ecosystem: it houses the
 |:---|:---|:---|
 | <img src="assets/icons/book.svg" width="16" height="16" style="vertical-align: -3px; margin-right: 4px;" /> **Firmware** | [`firmware/`](firmware) → [crosspoint-onepage](https://github.com/MoveCall/crosspoint-onepage) | Port of [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) tailored for OnePage C61 (`v0.1.0`). |
 | <img src="assets/icons/chip.svg" width="16" height="16" style="vertical-align: -3px; margin-right: 4px;" /> **Board SDK** | *(Nested in firmware)* → [onepage-reader-sdk-arduino](https://github.com/MoveCall/onepage-reader-sdk-arduino) | Arduino & PlatformIO board-support drivers (EPD, keys, power management, SD). |
-| <img src="assets/icons/pcb.svg" width="16" height="16" style="vertical-align: -3px; margin-right: 4px;" /> **Electronics** | [`electronics/c61/`](electronics/c61/) | Schematic, Gerbers, BOM, iBOM, and SMT pick-and-place data. |
+| <img src="assets/icons/pcb.svg" width="16" height="16" style="vertical-align: -3px; margin-right: 4px;" /> **Electronics** | [`electronics/c61/`](electronics/c61/) → [OSHWHub](https://oshwhub.com/movecall/project_ucjwpaya) | Schematic, Gerbers, BOM, iBOM, and SMT pick-and-place data. |
 | <img src="assets/icons/box.svg" width="16" height="16" style="vertical-align: -3px; margin-right: 4px;" /> **Enclosure & Panels** | [`mechanical/c61/`](mechanical/c61/) → [MakerWorld](https://makerworld.com.cn/zh/@MoveCall) | Custom PET / Acrylic panels (`.epanm`), CNC mid-frame, and MakerWorld 3D models. |
 | <img src="assets/icons/browser.svg" width="16" height="16" style="vertical-align: -3px; margin-right: 4px;" /> **Web Tools** | [`web/`](web) → [onepage-reader-web](https://github.com/MoveCall/onepage-reader-web) | Official website, WebSerial flasher, and `cpfont` builder. |
 

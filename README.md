@@ -114,5 +114,5 @@ This is a **mixed-license** project designed to balance open hardware collaborat
 
 ## <img src="assets/icons/heart.svg" width="20" height="20" style="vertical-align: -4px; margin-right: 6px;" /> Acknowledgements
 
-- Built on top of the [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) project (MIT © Dave Allie). *(Not affiliated with CrossPoint or Xteink)*.
+- Built on top of the [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) project (MIT License). *(Not affiliated with CrossPoint or Xteink)*.
 - Powered by Espressif ESP32-C61 & Open-Source Community.
